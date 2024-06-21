@@ -7,7 +7,7 @@ class MovieSelection {
             link: "assets/images/john-wick.jpg"
         },
         {
-            title: "Corpse Bridge",
+            title: "Corpse Bride",
             genre: "Romance",
             link: "assets/images/corpse-bride.jpg"
         },
